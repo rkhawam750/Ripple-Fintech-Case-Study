@@ -8,7 +8,9 @@
 
 * When was the company incorporated?
 
-* Founder Brad Garlinghouse ![image](images/CEO.png)
+* Founder: [Brad Garlinghouse](https://en.wikipedia.org/wiki/Brad_Garlinghouse)
+* 
+* ![image](images/CEO.png)
 
 * How did the idea for the company (or project) come about?
 
