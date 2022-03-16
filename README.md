@@ -8,7 +8,7 @@
 
 * When was the company incorporated?
 
-* Founder: [Brad Garlinghouse](https://en.wikipedia.org/wiki/Brad_Garlinghouse)
+* Founder: Chris Larsen and Current CEO [Brad Garlinghouse](https://en.wikipedia.org/wiki/Brad_Garlinghouse)
 * 
 * ![image](images/CEO.png)
 
