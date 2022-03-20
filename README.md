@@ -14,14 +14,14 @@
 * 
 * ![image](images/CEO.png)
 
-* How did the idea for the company (or project) come about? The goal of Ripple is to save people money
+* Ripple provides one frictionless experience to send money globally using the power of blockchain.
 
-* How is the company funded? How much funding have they received?
+* As of March 19, 2022 Ripple has raised a total of $293.8M in funding over 14 rounds from a Series B round.
 
 
 ## Business Activities:
 
-* Authored by Arthur Britto, David Schwartz, & Ryan Fugger, Ripple is the name of a payment network and the payment protocol that was developed and released in 2012. It it's goal in order to enable "secure, instant and nearly free global financial transactions". It is built on principles similar to those of Bitcoin, so many people consider it a cryptocurrency.
+* Authored by Arthur Britto, David Schwartz, & Ryan Fugger, Ripple is the name of a payment network and the payment protocol that was developed and released in 2012. Their goal is order to enable "secure, instant and nearly free global financial transactions". It is built on principles similar to those of Bitcoin, so many people consider it a cryptocurrency.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
