@@ -8,7 +8,7 @@
 
 * Incorporated in 2012
 
-* Founders: Chris Larsen and Jed McCaleb 
+* Founders: Chris Larsen, Jed McCaleb, Arthur Britto, and Ryan Fugger
 
 * Current CEO [Brad Garlinghouse](https://en.wikipedia.org/wiki/Brad_Garlinghouse)
 * 
@@ -29,36 +29,26 @@
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* In a post pandemic world the ever expanding internet is growing faster then before due to the rising demand for immediate payment solutions. Ripple seaks to revolutionize the payments space by using blockchain and cyprtocurrency.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
+* Some of Ripple's alternativees include IBM Blockchain, Ethereum, Steller, Oracle Blockchain Cloud Service, Tangle, Bitcoin, Quorum, and Blockstream.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+* Despite the current SEC lawsuit against Ripple which as slowly down it's growth they are growing rapidly around the globe.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* There is a growing interst in NFT's that Ripple should investigate if they have not begun one.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* Once the SEC lawsuit is settled and Ripple is able to provide it's services to the largest market in the world the demand for the services will increase dramatically. My concern is that their network is able to handle the increase in demand.
 
 ## Sources
 * https://ripple.com/files/ripple_consensus_whitepaper.pdf
 * https://www.researchgate.net/profile/Shailak-Jani/publication/322436263_An_Overview_of_Ripple_Technology_its_Comparison_with_Bitcoin_Technology/links/5a58ad76458515211cc8a6e4/An-Overview-of-Ripple-Technology-its-Comparison-with-Bitcoin-Technology.pdf
 * https://www.crunchbase.com/organization/ripple-labs
 * https://www.finextra.com/pressarticle/85513/former-jpmorgan-chase-chief-regulatory-affairs-officer-sandie-oconnor-joins-ripple
+* https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/alternatives
 
 
