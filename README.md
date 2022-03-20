@@ -4,22 +4,24 @@
 
 ## Overview and Origin
 
-* Name of company
+* Ripple
 
-* When was the company incorporated?
+* Incorporated in 2012
 
-* Founder: Chris Larsen and Current CEO [Brad Garlinghouse](https://en.wikipedia.org/wiki/Brad_Garlinghouse)
+* Founders: Chris Larsen and Jed McCaleb 
+
+* Current CEO [Brad Garlinghouse](https://en.wikipedia.org/wiki/Brad_Garlinghouse)
 * 
 * ![image](images/CEO.png)
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? The goal of Ripple is to save people money
 
 * How is the company funded? How much funding have they received?
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? Ripple is the name of a payment network and the payment protocol, authored by Arthur Britto, David Schwartz, & Ryan Fugger. It was developed and released in 2012 by a company of the same name, in order to enable "secure, instant and nearly free global financial transactions". It is built on principles similar to those of Bitcoin, so many people consider it a cryptocurrency.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -54,3 +56,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+* sources https://ripple.com/files/ripple_consensus_whitepaper.pdf
+* https://www.researchgate.net/profile/Shailak-Jani/publication/322436263_An_Overview_of_Ripple_Technology_its_Comparison_with_Bitcoin_Technology/links/5a58ad76458515211cc8a6e4/An-Overview-of-Ripple-Technology-its-Comparison-with-Bitcoin-Technology.pdf
+
+
+
