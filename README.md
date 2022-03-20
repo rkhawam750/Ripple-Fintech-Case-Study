@@ -57,7 +57,8 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Why are these technologies appropriate for your solution?
 
-* sources https://ripple.com/files/ripple_consensus_whitepaper.pdf
+## Sources
+* https://ripple.com/files/ripple_consensus_whitepaper.pdf
 * https://www.researchgate.net/profile/Shailak-Jani/publication/322436263_An_Overview_of_Ripple_Technology_its_Comparison_with_Bitcoin_Technology/links/5a58ad76458515211cc8a6e4/An-Overview-of-Ripple-Technology-its-Comparison-with-Bitcoin-Technology.pdf
 
 
