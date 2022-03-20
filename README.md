@@ -23,11 +23,9 @@
 
 * Authored by Arthur Britto, David Schwartz, & Ryan Fugger, Ripple is the name of a payment network and the payment protocol that was developed and released in 2012. Their goal is order to enable "secure, instant and nearly free global financial transactions". It is built on principles similar to those of Bitcoin, so many people consider it a cryptocurrency.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Ripple provides one frictionless experience to send money globally using the power of blockchain. It offers a global real-time payment system that enables banks and financial institutions around the world to directly transact with each other without the need for a central correspondent. One of Ripple's differentiating componets is  FX Market Making, which is a solution enablingenterprises that opens the ability for cross-currency liquidity using a distributed network that allows foreign exchange to be externally sourced from a competitive FX marketplace or an internal FX trading desk. This minimizes FX exposure thereby lowering the volatility and counter-party risk of trades. Ripple Insights features industry updates, insider perspectives, and in-depth market analysis.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+* Currently Ripple is using 38 technology products and services which include HTML5, Google Analytics, and jQuery. They are also using 118 technologies for its website including Viewport Meta, IPhone / Mobile Compatible, and SPF.
 
 ## Landscape:
 
